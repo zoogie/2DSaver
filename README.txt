@@ -2,8 +2,7 @@
 
 Instruction Manual of Application Operation and Safety Precautions for User comfort, safety, stability, and desired Operational Outcome
 
-Prep. You need cfw installed with Luma3DS 9.1 or above. If you don't have it, then do https://3ds.hacks.guide/ntrboot
-Make sure to buy a pre-flashed card like r4iGold+ or r4i-b9s.
+Prep. You need [cfw](https://3ds.hacks.guide) installed with Luma3DS 10.2.1 or above. If you don't have it, then do [ntrboot](https://3ds.hacks.guide/ntrboot) instead.
 
 1. Take the config.bin out of your region's folder and place it in sdmc:/luma/config.bin (overwrite previous).
 2. Place 2DSaver boot.3dsx on sd root.
